@@ -26,6 +26,9 @@ After graduating during the pandemic and working in mortgage compliance for over
 - [Dirty Cafe Sales Data Cleaning](https://github.com/nikcodespy/dirty_cafe_data_cleaning)  
   ➤ End-to-end cleaning of a messy dataset, including feature creation, type fixing, and documentation.
 
+- [15y Stock Analysis](https://github.com/nikcodespy/15y_stock_analysis)
+  ➤ End-to-end cleaning & exploration of a 15y stock dataset, including data visualisations.
+
 *More projects coming soon…*
 
 ---
