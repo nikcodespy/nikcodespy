@@ -8,7 +8,7 @@ After graduating during the pandemic and working in mortgage compliance for over
 
 ## 🚀 What I'm Working On
 
-- 🧹 Just completed: [Dirty Cafe Sales Data Cleaning](https://github.com/nikcodespy/dirty_cafe_data_cleaning) — handled missing values, invalid entries, and inconsistent formats in a 10,000-row dataset using Pandas
+- 🧹 Just completed: [15y Stock Analysis](https://github.com/nikcodespy/15y_stock_analysis) — Cleaning and exploring 15y stock trends for APPL, NVDA, MSFT, GOOGL & AMZN
 - 💼 Exploring opportunities to apply my skills in a real-world analytics role
 
 ---
@@ -24,10 +24,10 @@ After graduating during the pandemic and working in mortgage compliance for over
 ## 📂 Featured Projects
 
 - [Dirty Cafe Sales Data Cleaning](https://github.com/nikcodespy/dirty_cafe_data_cleaning)  
-  ➤ End-to-end cleaning of a messy dataset, including feature creation, type fixing, and documentation.
+   End-to-end cleaning of a messy dataset, including feature creation, type fixing, and documentation.
 
 - [15y Stock Analysis](https://github.com/nikcodespy/15y_stock_analysis).
-  ➤ End-to-end cleaning & exploration of a 15y stock dataset, including data visualisations.
+   End-to-end cleaning & exploration of a 15-year stock dataset, including data visualisations.
 
 *More projects coming soon…*
 
